@@ -1,4 +1,4 @@
-/* 1¹ø */
+/* 1Â¹Ã¸ */
 //	#include <iostream>
 //	using namespace std;
 //
@@ -8,7 +8,7 @@
 //		return 0;
 //	}
 
-/* 2¹ø */
+/* 2Â¹Ã¸ */
 //#include <iostream>
 //using namespace std;
 //
@@ -19,7 +19,7 @@
 //	return 0;
 //}
 
-/* 3¹ø */
+/* 3Â¹Ã¸ */
 //#include <iostream>
 //using namespace std;
 //
@@ -29,7 +29,7 @@
 //	return 0;
 //}
 
-/* 4¹ø */
+/* 4Â¹Ã¸ */
 //#include <iostream>
 //using namespace std;
 //
@@ -38,7 +38,7 @@
 //	return 0;
 //}
 
-/* 5¹ø */
+/* 5Â¹Ã¸ */
 //#include <iostream>
 //using namespace std;
 //
@@ -47,7 +47,7 @@
 //	return 0;
 //}
 
-/* 6¹ø */
+/* 6Â¹Ã¸ */
 //#include <iostream>
 //using namespace std;
 //
@@ -56,7 +56,7 @@
 //	return 0;
 //}
 
-/* 7¹ø */
+/* 7Â¹Ã¸ */
 //#include <iostream>
 //using namespace std;
 //int main() {
@@ -64,7 +64,7 @@
 //	return 0;
 //}
 
-/* 8¹ø */
+/* 8Â¹Ã¸ */
 #include <iostream>
 using namespace std;
 int main() {
