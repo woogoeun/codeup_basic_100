@@ -9,7 +9,8 @@
 //	cout << a << endl << b;
 //	return 0;
 //}
-/* 다른 풀이 */		//왜 안될까?
+
+/* another solution */
 #include <iostream>
 #include <string.h>
 #pragma warning(disable:4996)
